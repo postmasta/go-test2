@@ -1,6 +1,6 @@
 module github.com/Snawoot/hola-proxy
 
-go 1.24.4
+go 1.20
 
 require (
 	github.com/campoy/unique v0.0.0-20180121183637-88950e537e7e
