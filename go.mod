@@ -7,7 +7,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/ncruces/go-dns v1.2.7
+	github.com/ncruces/go-dns v1.2.5
 	github.com/refraction-networking/utls v1.3.2
 	golang.org/x/net v0.17.0
 )
