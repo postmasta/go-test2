@@ -1,4 +1,4 @@
-module github.com/Snawoot/hola-proxy
+module github.com/postmasta/go-test2
 
 go 1.20
 
@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/ncruces/go-dns v1.2.7
-	github.com/refraction-networking/utls v1.8.0
+	github.com/refraction-networking/utls v1.6.7
 	golang.org/x/net v0.44.0
 )
 
